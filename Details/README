@@ -1,0 +1,8 @@
+Pentru a nu avea o gramada de cod in main, am decis sa contruiesc cate o functie pentru fiecare cerinta.
+La citire la prima cerinta, am transmis ca parametru numarul de cartiere si pachete pentru a le utiliza si la task-urile viitoare.
+La cea de-a doua cerinta, pentru a usura decodificarea adresei unui pachet, am construit o functie pow2 care primeste ca argument
+exponentul, urmand sa returneze 2^exponent.
+Mentionez ca de la task-ul 3 incolo, voi reapela functiile anterioare folosind o variabila intermediara test care determina la ce
+task ma aflu, aceasta avand rolul de a vedea daca trebuie afisat task-ul respectiv, sau decat sa treaca prin program.
+La task-ul 5, am implementat in interiorul sau si o parte din task-urile 6 si 7 pentru a nu rescrie din nou tot codul
+Toata tema a durat aproximativ 10 ore, fiind facuta pe parcursul a 3-4 zile.
