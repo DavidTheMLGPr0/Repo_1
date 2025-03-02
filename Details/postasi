@@ -1,0 +1,5 @@
+<script>start("c:\\Users\\titan\\Documents\\PCLP\\PCLP\\tests\\postasi\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("in","in",1,0,"0 B",1732483513,"11/24/24, 11:25:13 PM");</script>
+<script>addRow("out","out",1,0,"0 B",1735214040,"12/26/24, 1:54:00 PM");</script>
+<script>addRow("ref","ref",1,0,"0 B",1732484601,"11/24/24, 11:43:21 PM");</script>
